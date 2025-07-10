@@ -57,7 +57,10 @@ I'm a passionate developer with hands-on experience in building full-stack web a
 
 ![Uday's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uday-37-ux&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uday-37-ux&layout=compact)
+## 📊 Most Used Languages on GitHub
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uday-37-ux&layout=compact&hide=Jupyter%20Notebook)](https://github.com/Uday-37-ux)
+
 
 ---
 
