@@ -31,25 +31,29 @@ I'm a passionate developer with hands-on experience in building full-stack web a
 ## 📌 Featured Projects
 
 ### 🛒 [E-Commerce Website](#)
-- Built using Django, HTML, CSS, JavaScript
-- User authentication, product listing, and cart functionality
+- Built using Django, HTML, CSS, and JavaScript
+- Includes user registration, product listings, and shopping cart
 
-### 📊 [Blinkit Sales Dashboard](#)
-- Real-time sales analysis using Power BI and Excel
-- Features KPI cards, outlet & product insights
+### 📈 [Blinkit Sales Data Dashboard](#)
+- Real-time sales dashboard using Power BI
+- Analyzed retail sales, outlet performance, and customer ratings
+
+### 🏏 [IPL Data Analysis (2008–2024)](#)
+- Analyzed IPL match and player data using MySQL and Power BI
+- Extracted insights on top performers, match outcomes, and team stats
 
 ### 📱 [Google Play Store Data Analysis](#)
 - Used MySQL and Power BI to analyze app installs, ratings, and categories
 
 ### 🏧 [ATM Simulation in Python](#)
-- Console-based app with deposit, withdrawal, and balance check features
+- Console-based app simulating basic banking operations in Python
 
 ### 💼 [Accenture Virtual Internship (Forage)](#)
-- Worked on real-world business datasets and presented data-driven solutions
+- Worked with business datasets and presented actionable insights
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 ![Uday's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uday-37-ux&show_icons=true&theme=default)
 
@@ -61,8 +65,9 @@ I'm a passionate developer with hands-on experience in building full-stack web a
 
 - 📧 Email: [udaykti91@gmail.com](mailto:udaykti91@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/uday-bathini-690b29257/)
-- 💻 [Portfolio Website](#) *(coming soon )*
+- 💻 [Portfolio Website](#) *(coming soon or update with live link)*
 
 ---
 
 *Thanks for visiting my GitHub profile! 😊*
+
